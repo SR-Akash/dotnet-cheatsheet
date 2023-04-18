@@ -1,0 +1,7 @@
+### 1
+string author = "Mahesh Chand";
+string book = "C# Programming";
+// Use string interpolation to concatenate strings.
+string bookAuthor = $"{author} is the author of {book}.";
+Console.WriteLine(bookAuthor);
+
